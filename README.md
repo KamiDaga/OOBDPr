@@ -1,2 +1,2 @@
 # OOBDPr
-This is a simple application for tracking covid19 cases in restaurants. Works with PostgreSQL.
+The developed system is a classic gestional software regarding restaurant management. Given the difficult times that covid brought with itself, we added the possibility to create a layout customized for each room. In this way, if someone reports to be affected by Covid to the restaurant, throught the application the staff can easily trace who was close to that infection case, and alert the eventual guests through their phone number, fundamental in order to reserve a seat.
